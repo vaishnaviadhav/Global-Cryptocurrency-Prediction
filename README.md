@@ -1,4 +1,4 @@
-# Global-Cryptocurrency-Prediction
+# Global Cryptocurrency Prediction
 The project is about prediction of Global Cryptocurrency, it's visualization and analysis with insightful charts and graphs using a dashboard.
 
 ## Business Intelligence Tool used - Power BI
